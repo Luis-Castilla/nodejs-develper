@@ -10,8 +10,8 @@ This project is a Node.js application that provides a set of APIs for managing b
 
 To run this project, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
-2. Navigate to the project directory: `cd <project-directory>`
+1. Clone the repository: `git clone https://github.com/Luis-Castilla/nodejs-develper.git`
+2. Navigate to the project directory: `cd nodejs-develper`
 3. Install dependencies: `npm install`
 4. Start the server in development mode: `npm run start:dev`
 
